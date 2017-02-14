@@ -1,4 +1,4 @@
-#' A function used to create a list of image date folders to process.
+#' Creates a list of image date folders to process.
 #' 
 #' This function is used internally in the jpegR function to create a list of 
 #' image date folders to process. It also:
