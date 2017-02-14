@@ -2,7 +2,7 @@
 % Please edit documentation in R/checkR.R
 \name{checkR}
 \alias{checkR}
-\title{A function used to create a list of image date folders to process.}
+\title{Creates a list of image date folders to process.}
 \usage{
 checkR(wkdir, imdir, shp, shp.ID)
 }
