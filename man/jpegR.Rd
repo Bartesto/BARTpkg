@@ -2,7 +2,7 @@
 % Please edit documentation in R/jpegR.R
 \name{jpegR}
 \alias{jpegR}
-\title{A function that produces small jpegs of satellite imagery}
+\title{Produces small jpegs of satellite imagery}
 \usage{
 jpegR(wkdir, imdir, shp, shp.ID, buff, red, green, blue, fmask)
 }
