@@ -50,6 +50,7 @@
 #'
 #' @export
 #' @import raster rgdal maptools
+#' @importFrom grDevices dev.off jpeg
 
 
 jpegR <- function(wkdir, imdir, shp, shp.ID, buff, red, green, blue, fmask){
