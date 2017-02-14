@@ -1,5 +1,4 @@
-#' A function used to create a list of image date folders based on outputs from 
-#' fmask
+#' Creates a list of image date folders based on outputs from fmask
 #' 
 #' This function is used internally in the jpegR function to create a list of 
 #' image date folders to process. This function differs from checkR by querying
