@@ -2,6 +2,7 @@
 
 export(checkR)
 export(fmaskcheckR)
+export(jpegR)
 export(shpSplitR)
 import(maptools)
 import(raster)
