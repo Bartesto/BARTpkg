@@ -10,7 +10,10 @@ Description: Various functions to assist in working with spatial data. Includes
 Depends: R (>= 3.3.2)
 Imports: raster,
     rgdal,
-    maptools
+    maptools,
+    dplyr,
+    stringr,
+    sp
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
