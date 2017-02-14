@@ -1,4 +1,4 @@
-#' A function that produces small jpegs of satellite imagery
+#' Produces small jpegs of satellite imagery
 #' 
 #' This function makes small jpeg images centred on and showing site locations. 
 #' This step is part of the cloud quality check process prior to extracting 
