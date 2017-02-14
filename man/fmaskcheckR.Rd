@@ -2,8 +2,7 @@
 % Please edit documentation in R/fmaskcheckR.R
 \name{fmaskcheckR}
 \alias{fmaskcheckR}
-\title{A function used to create a list of image date folders based on outputs from 
-fmask}
+\title{Creates a list of image date folders based on outputs from fmask}
 \usage{
 fmaskcheckR(wkdir, imdir, shp, shp.ID)
 }
