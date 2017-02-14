@@ -1,0 +1,17 @@
+Package: BARTpkg
+Title: Utility Functions for Working with Remote Sensing Data
+Version: 0.1.0
+Date: 2017-02-13
+Authors@R: person("Bart", "Huntley", email = "bart.huntley@dpaw.wa.gov.au", 
+    role = c("aut", "cre"))
+Description: Various functions to assist in working with spatial data. Includes 
+    functions for downloading imagery, cloud quality checking and spectral data 
+    extraction.
+Depends: R (>= 3.3.2)
+Imports: raster,
+    rgdal,
+    maptools
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
